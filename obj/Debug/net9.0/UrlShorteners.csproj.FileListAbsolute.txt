@@ -119,3 +119,4 @@
 /Users/nakama/UrlShorteners/obj/Debug/net9.0/UrlShorteners.pdb
 /Users/nakama/UrlShorteners/obj/Debug/net9.0/UrlShorteners.genruntimeconfig.cache
 /Users/nakama/UrlShorteners/obj/Debug/net9.0/ref/UrlShorteners.dll
+/Users/nakama/UrlShorteners/obj/Debug/net9.0/UrlShorteners.sourcelink.json
