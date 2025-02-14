@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nakama/UrlShorteners/UrlShorteners.csproj": {}
+    "/Users/nakama/mierdaquesoy/UrlShorteners.csproj": {}
   },
   "projects": {
-    "/Users/nakama/UrlShorteners/UrlShorteners.csproj": {
+    "/Users/nakama/mierdaquesoy/UrlShorteners.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nakama/UrlShorteners/UrlShorteners.csproj",
+        "projectUniqueName": "/Users/nakama/mierdaquesoy/UrlShorteners.csproj",
         "projectName": "UrlShorteners",
-        "projectPath": "/Users/nakama/UrlShorteners/UrlShorteners.csproj",
+        "projectPath": "/Users/nakama/mierdaquesoy/UrlShorteners.csproj",
         "packagesPath": "/Users/nakama/.nuget/packages/",
-        "outputPath": "/Users/nakama/UrlShorteners/obj/",
+        "outputPath": "/Users/nakama/mierdaquesoy/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nakama/.nuget/NuGet/NuGet.Config"

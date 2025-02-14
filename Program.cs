@@ -5,8 +5,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.WebHost.UseUrls($"http://*:{Environment.GetEnvironmentVariable("PORT") ?? "5000"}");
 
 // Configurar la cadena de conexión desde la variable de entorno DATABASE_URL
-string databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL")
-                     ?? "postgresql://neondb_owner:npg_2GOZWE6NIeUR@ep-dry-field-a87aufuq-pooler.eastus2.azure.neon.tech/neondb?sslmode=require";
+string databaseUrl = Environment.GetEnvironmentVariable("DATABASE_URL");
+                    
 
 if (string.IsNullOrEmpty(databaseUrl))
 {
